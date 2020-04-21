@@ -1,12 +1,6 @@
 # AgapeDirectory
 
-###Exercise the Following:
-    Requirements Engineering
-    Conceptual Design (Analysis)
-    Logical Design
-    Physical Design
-    Implementation
-    Testing
+    Requirements Engineering | Conceptual Design (Analysis) | Logical Design | Physical Design | Implementation | Testing
 
 ### Customer Need Statement:
 
